@@ -5,7 +5,7 @@ Here cd temp command is for to go into a folder named temp, mkdir is for to make
 For go to back one folder we use cd.. also cat file.txt is for to see the content of the file. These are some important code words for wsl.
 To make a file in wsl first we install ubuntu in wsl menu. Then we use the nano (your file Name).txt command to create a new file.
 Example, if i want to make a file name anwarul.txt then i will write none anwarul.txt command.
-Then, ctrl+o to save it thwen,I press enter i makes a file in current folder named anwarul.txt.
+Then, ctrl+o to save it then,I press enter i makes a file in current folder named anwarul.txt.
 
 
 
