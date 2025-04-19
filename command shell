@@ -1,0 +1,11 @@
+In this repository we learn about the command shell or terminal shell it is a text base interface which allow us to operate system by using words.
+We learn that how to make an file in wsl by just using some codes etc.
+For this first we open wsl(Linux) in our after this we use some code words like cd,temp, ls and mkdir etc.
+Here cd temp command is for to go into a folder named temp, mkdir is for to make a new folder.
+For go to back one folder we use cd.. also cat file.txt is for to see the content of the file. These are some important code words for wsl.
+To make a file in wsl first we install ubuntu in wsl menu. Then we use the nano (your file Name).txt command to create a new file.
+Example, if i want to make a file name anwarul.txt then i will write none anwarul.txt command.
+Then, ctrl+o to save it thwen,I press enter i makes a file in current folder named anwarul.txt.
+
+
+
